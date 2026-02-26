@@ -1,0 +1,5 @@
+{
+  "name": "FindYourService (파인드유얼서비스)",
+  "description": "아이템 제작에 필요한 재료와 생산 업체를 자동으로 찾아 연결해주는 서비스",
+  "requestFramePermissions": []
+}
